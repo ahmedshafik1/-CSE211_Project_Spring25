@@ -1,0 +1,14 @@
+.\st7735.o: ST7735.c
+.\st7735.o: tm4c123gh6pm.h
+.\st7735.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\st7735.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\st7735.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_gpio.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h
+.\st7735.o: gpio.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rom.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ssi.h
+.\st7735.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h
+.\st7735.o: ST7735.h
